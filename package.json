@@ -1,0 +1,33 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "refresh memory",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azizove/react-tutorial.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "ABDEL-AZIZ ELOUARAK <az.elouarak@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azizove/react-tutorial/issues"
+  },
+  "homepage": "https://github.com/azizove/react-tutorial#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "5.23.0",
+    "@typescript-eslint/parser": "5.23.0",
+    "eslint": "8.15.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "eslint-plugin-react": "7.29.4",
+    "prettier": "2.6.2",
+    "typescript": "4.6.4"
+  }
+}
